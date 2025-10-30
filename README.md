@@ -1,4 +1,4 @@
-# Smart Meeting Notes & Action-Item Extractor
+# NotesAI: Smart Meeting Notes & Action-Item Extractor
 
 This project aims to convert meeting audio into a clean transcript, a concise meeting summary, and a prioritized list of action items with owners and due dates. The output can be exported as JSON/Markdown and viewed in a lightweight web demonstration.
 
